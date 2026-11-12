@@ -1,0 +1,3 @@
+POST /login
+  body: email, password
+  returns: session cookie
